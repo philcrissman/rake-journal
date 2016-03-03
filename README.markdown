@@ -50,7 +50,7 @@ If you run `rake today` it will create (if needed) the directories for `./YYYY/m
 If you run `rake newfile somefile`, it will create `./YYYY/mon/DD/somefile.markdown`.
 
 ```
-rake newfile algorithms
+> rake newfile algorithms
 * Ensure directory writing/2016/mar/03 exists
 * Created writing/2016/mar/03/algorithms.markdown
 ```
