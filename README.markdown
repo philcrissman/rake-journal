@@ -1,4 +1,4 @@
-# Writing
+# rake-journal
 
 Just done up in folders:
 
